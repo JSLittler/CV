@@ -20,7 +20,7 @@ From re-training through to my current position, I have shown that I am able to 
 I am a firm believer in the maxim "Solve the problem, then write the code". When developing solutions I focus on the need to develop simple, lighweight solutions that can easily be maintained and which are based on solid foundations of correct data structures and clean code. I also apply a similar approach to developing effective ways of working, carefully considering the balance between weight of process, quality and velocity.
 
 ### Effective Leader
-A constant from every role I have ever undertaken is that I always take responsibility and ownership for challenges, while bringing people with me. The combination of technical and interpersonal skills highlighted above, allied to my leadership experience allows me to work in a way that both contributes most effectively to a team and gets the best out of my colleagues. I am reflective and constantly look for a better balance of process and solution focus, I am flexible enough to change approach based upon circumstances and as an effective communicator I am effective in developing a shared vision among any team.
+A constant from every role I have ever undertaken is that I always take responsibility and ownership for challenges, while bringing people with me. The combination of technical and interpersonal skills highlighted above, allied to my leadership experience allows me to work in a way that both contributes most effectively to a team and gets the best out of my colleagues. I am reflective and constantly look for a better balance of process and solution focus, I am flexible enough to change approach based upon circumstances and as an effective communicator I am accomplished in developing a shared vision among any team.
 
 ## Experience
 
@@ -33,7 +33,7 @@ A constant from every role I have ever undertaken is that I always take responsi
 
 Including re-training, I have spent almost four years at Compare the Market, initially working on entry level maintance tasks before moving on to taking a key role in delivering new features and now a leading role in developing the future of the business' digital comparison platform. During this time I have demonstrated my ability to learn new technologies quickly and apply them creatively to overcome business and technical challenges as well as to improve or define new ways of working for my teams. I have also relied upon and continued to develop my softer skills in order to work well with colleagues, help them to develop their own capabilities through processes such as mentoring and to take an active role in the process of recruiting new engineers to the business.
 
-#### Key Responnsibilities
+#### Key Responsibilities
 
  - Development of future website platform for all CTM products (range of technologies including Web-Components)
  - Property Details API Creation, and integration into Home Insurance Website (.Net 5 / React JS)
