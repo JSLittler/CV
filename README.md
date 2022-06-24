@@ -2,7 +2,7 @@
 
 [Key Technical Skill](#key-technical-skills) | [Skills](#skills) | [Experience](#experience) | [Education](#education) |  [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/john-littler-057687218/)
 
-I am a proactive and innovative Full Stack Software Engineer with experience of Javascript (Web Components, React, Angular, Node) and C# (.Net) as well as a range of other technologies and frameworks. Throughout my time as a Software Engineer I have combined creativity, a high level of technical knowledge and enthusiasm for learning and devloping. I am passionate about writing lightweight, maintainable code that is clean, tested, reusable and delivers the right outcome for customers.
+I am a proactive and innovative Full Stack Software Engineer with experience of Javascript (Web Components, React, Angular, Node) and C# (.Net) as well as a range of other technologies and frameworks. Throughout my time as a Software Engineer I have combined creativity, a high level of technical knowledge and enthusiasm for learning and developing. I am passionate about writing lightweight, maintainable code that is clean, tested, reusable and delivers the right outcome for customers.
 
 ## Key Technical Skills
 
