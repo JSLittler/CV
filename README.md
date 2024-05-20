@@ -2,13 +2,16 @@
 
 [Key Technical Skill](#key-technical-skills) | [Skills](#skills) | [Experience](#experience) | [Education](#education) |  [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/john-littler-057687218/)
 
-I am a proactive and innovative Full Stack Software Engineer with experience of Javascript (Web Components, React, Angular, Node) and C# (.Net) as well as a range of other technologies and frameworks. Throughout my time as a Software Engineer I have combined creativity, a high level of technical knowledge and enthusiasm for learning and developing. I am passionate about writing lightweight, maintainable code that is clean, tested, reusable and delivers the right outcome for customers.
+I am a proactive and innovative Full Stack Software Engineering Leader with experience of Javascript (Web Components, React, Angular, Node) and C# (.Net) as well as a range of other technologies and frameworks. Throughout my time as a Software Engineer I have combined creativity, a high level of technical knowledge and enthusiasm for learning and developing. I am passionate about writing lightweight, maintainable code that is clean, tested, reusable and delivers the right outcome for customers.
 
 ## Key Technical Skills
 
-JavaScript, nodeJS, Web components, React, HTML 5, AWS, Docker, Microservices, MongoDB, Git, Github, C#, .NET 5.0, .NET Core 3.1, .NET Framework 4.8, Test Driven Development, Behaviour Driven Development, Agile Development.
+System design, JavaScript, nodeJS, Web components, React, HTML 5, AWS, Docker, Microservices, MongoDB, Git, Github, C#, .NET 5.0, .NET Core 3.1, .NET Framework 4.8, Test Driven Development, Behaviour Driven Development, Agile Development.
 
 ## Skills
+
+### Effective Leader
+A constant from every role I have ever undertaken is that I always take responsibility and ownership for challenges, while bringing people with me. The combination of technical and interpersonal skills highlighted above, allied to my leadership experience allows me to work in a way that both contributes most effectively to a team and gets the best out of my colleagues. I am reflective and constantly look for a better balance of process and solution focus, I am flexible enough to change approach based upon circumstances and as an effective communicator I am accomplished in developing a shared vision among any team.
 
 ### Excellent communicator
 I regularly contribute to a company wide showcase, and have run a range of sessions for colleagues to share technical knowledge, good practice or to find a consensus on our approach to specific technical challenges. I contribute effectively in ceremonies helping to shape work and ways of working, pair effectively on technical tasks and as a former teacher I have a great deal of experience in this area which means colleagues regularly seek my advice or feedback.
@@ -19,19 +22,30 @@ From re-training through to my current position, I have shown that I am able to 
 ### Analytical thinker
 I am a firm believer in the maxim "Solve the problem, then write the code". When developing solutions I focus on the need to develop simple, lighweight solutions that can easily be maintained and which are based on solid foundations of correct data structures and clean code. I also apply a similar approach to developing effective ways of working, carefully considering the balance between weight of process, quality and velocity.
 
-### Effective Leader
-A constant from every role I have ever undertaken is that I always take responsibility and ownership for challenges, while bringing people with me. The combination of technical and interpersonal skills highlighted above, allied to my leadership experience allows me to work in a way that both contributes most effectively to a team and gets the best out of my colleagues. I am reflective and constantly look for a better balance of process and solution focus, I am flexible enough to change approach based upon circumstances and as an effective communicator I am accomplished in developing a shared vision among any team.
-
 ## Experience
 
-### CompareTheMarket (September 2018 - present)
+### Checkit (September 2023 tp present)
+
+- Lead Cloud Engineer
+
+I am currently the Technical Lead for a team of 4 Developers and three Testers. Our focus is wide ranging from traditional Cloud activity all the way through to buidling, running and owning user interfaces with additional responsibility for a high number of APIs and their connections to both Mongo and SQL databases. A large part of my work has centered around implementing agile processes that build quality into the existing workflow, while leading work across the business to rationalise and simplify Checkit's architecture and move the technology from start-up phase to scale-up.
+
+#### Key Responsibilities
+
+ - Development of future architecture for Checkit platform and product
+ - Solution design for new features
+ - Leadership of development team
+ - Development of bespoke agile processes
+ - Leading maintenance of existing solution (Javascript, Typescript, html, Terraform, Groovy)
+
+### CompareTheMarket (September 2018 - August 2023)
 
  - Senior Software Engineer (September 2021 - present)
  - Software Engineer (September 2019 - September 2021)
  - Junior Software Engineer (January 2019 - September 2019)
  - Apprentice (September 2018 - December 2018)
 
-Including re-training, I have spent almost four years at Compare the Market, initially working on entry level maintance tasks before moving on to taking a key role in delivering new features and now a leading role in developing the future of the business' digital comparison platform. During this time I have demonstrated my ability to learn new technologies quickly and apply them creatively to overcome business and technical challenges as well as to improve or define new ways of working for my teams. I have also relied upon and continued to develop my softer skills in order to work well with colleagues, help them to develop their own capabilities through processes such as mentoring and to take an active role in the process of recruiting new engineers to the business.
+Including re-training, I spent almost five years at Compare the Market, initially working on entry level maintance tasks before moving on to taking a key role in delivering new features and now a leading role in developing the future of the business' digital comparison platform. During this time I have demonstrated my ability to learn new technologies quickly and apply them creatively to overcome business and technical challenges as well as to improve or define new ways of working for my teams. I have also relied upon and continued to develop my softer skills in order to work well with colleagues, help them to develop their own capabilities through processes such as mentoring and to take an active role in the process of recruiting new engineers to the business.
 
 #### Key Responsibilities
 
@@ -92,5 +106,5 @@ The above course also included a 12-week intensive development bootcamp at Maker
 
 - Travelling: I enjoy exploring the world, learning about different cultures and sampling new cuisines.
 - Health and Fitness: I enjoy playing a range of competitive sports such as cricket, football and tennis and am a regular visitor to my local gym.
-- Literature: From the classics to biographies, technical books to science fiction and fantasy. If it is written down, I want to read it.
+- Literature: From the classics to biographies, technical books to science fiction. If it is written down, I want to read it.
 - Coding: Having re-trained I find it's important to spend some personal time extending and refining my learning by building personal projects. It helps that I enjoy what I do.
