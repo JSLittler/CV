@@ -6,7 +6,6 @@
 
 I am a results-driven and proactive Full Stack Engineer and Software Engineering Leader with expertise in front-end development and extensive experience leading and delivering large-scale, high-impact projects. I am passionate about building, running and owning clean, efficient, and reusable code with a strong focus on maintainability and testing. I contribute throughout the software development lifecycle and thrive in collaborative environments, combining technical and interpersonal skills to deliver innovative, scalable and timely solutions.![image](https://github.com/user-attachments/assets/cc087c47-7b15-4897-81f2-ffaa4b6a2fb8)
 
-
 ## Key Technical Skills
 
 •	Languages: JavaScript, Node.js, TypeScript, HTML5, CSS3 (WCAG accessibility guidelines)
