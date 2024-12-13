@@ -1,110 +1,91 @@
 # John Littler
 
-[Key Technical Skill](#key-technical-skills) | [Skills](#skills) | [Experience](#experience) | [Education](#education) |  [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/john-littler-057687218/)
+[Professional Profile](#professional-profile) | [Key Technical Skill](#key-technical-skills) | [Professional Expreience](#professional-experience) | [Education](#education) | [Other Skills](#other-skills) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/john-littler-057687218/)
 
-I am a proactive and innovative Full Stack Software Engineering Leader with experience of Javascript (Web Components, React, Angular, Node) and C# (.Net) as well as a range of other technologies and frameworks. Throughout my time as a Software Engineer I have combined creativity, a high level of technical knowledge and enthusiasm for learning and developing. I am passionate about writing lightweight, maintainable code that is clean, tested, reusable and delivers the right outcome for customers.
+## Professional Profile
+
+I am a results-driven and proactive Full Stack Engineer and Software Engineering Leader with expertise in front-end development and extensive experience leading and delivering large-scale, high-impact projects. I am passionate about building, running and owning clean, efficient, and reusable code with a strong focus on maintainability and testing. I contribute throughout the software development lifecycle and thrive in collaborative environments, combining technical and interpersonal skills to deliver innovative, scalable and timely solutions.![image](https://github.com/user-attachments/assets/cc087c47-7b15-4897-81f2-ffaa4b6a2fb8)
+
 
 ## Key Technical Skills
 
-System design, JavaScript, nodeJS, Web components, React, HTML 5, AWS, Docker, Microservices, MongoDB, Git, Github, C#, .NET 5.0, .NET Core 3.1, .NET Framework 4.8, Test Driven Development, Behaviour Driven Development, Agile Development.
+•	Languages: JavaScript, Node.js, TypeScript, HTML5, CSS3 (WCAG accessibility guidelines)
+•	Frameworks: React.js, Redux, Nunjucks, Next.js
+•	Testing Tools: Jest, React Testing Library, Playwright, NUnit
+•	DevOps: Docker, AWS, Terraform, Jenkins, GOCD
+•	Practices: Agile Development, TDD, BDD, Microservices, Asynchronous working practices
+•	Collaboration tools: Jira, Confluence, Miro
+•	Other Tools: GitHub, Web Components, Accessibility Optimization
 
-## Skills
+## Professional Experience
 
-### Effective Leader
-A constant from every role I have ever undertaken is that I always take responsibility and ownership for challenges, while bringing people with me. The combination of technical and interpersonal skills highlighted above, allied to my leadership experience allows me to work in a way that both contributes most effectively to a team and gets the best out of my colleagues. I am reflective and constantly look for a better balance of process and solution focus, I am flexible enough to change approach based upon circumstances and as an effective communicator I am accomplished in developing a shared vision among any team.
+Lead Engineer, Checkit
+August 2023 – November 2024
+Technical Lead overseeing a team of 4 Developers and 3 Testers, delivering a wide range of projects spanning user interfaces, cloud deployments, APIs, and libraries.
+Key Technologies: React.js, Node.js, JavaScript, Typescript, Redux, Jest, Enzyme, AWS S3, AWS Lambda, Terraform, MongoDB, Jenkins, Docker, GitHub
+Key Achievements:
+•	Designed solutions for critical features such as Single-Sign-On, Cognito migration, and customer-facing widgets.
+•	Delivered a Single-Sign-On feature, unlocking significant business opportunities.
+•	Optimized AWS lambda and S3 code including tree shaking and minification to reduce it to a fraction of the original size which improved load and cold start times significantly.
+•	Led drive to improve monitoring and alerting across the business.
+•	Identified a number of performance issues affecting user interfaces throughout the business and developed plans to remedy these.
+•	Led a project to standardize information display across user interfaces and APIs in local time zones.
+•	Developed agile processes and documentation, reducing release incidents and hotfixes by 100%.
+•	Translated product requirements into actionable development tasks while monitoring outcomes effectively.
+•	Spearheaded a maintenance initiative to address 178 critical software vulnerabilities.
+•	Line managed four developers, including creation of basic line manager processes.
 
-### Excellent communicator
-I regularly contribute to a company wide showcase, and have run a range of sessions for colleagues to share technical knowledge, good practice or to find a consensus on our approach to specific technical challenges. I contribute effectively in ceremonies helping to shape work and ways of working, pair effectively on technical tasks and as a former teacher I have a great deal of experience in this area which means colleagues regularly seek my advice or feedback.
+Senior Software Engineer, Compare the Market
+September 2018 – August 2023
+Played a pivotal role in developing Compare the Market's digital comparison platform, delivering key features and architectural improvements while transitioning to advanced front-end technologies.
+Key Technologies: React.js, Node.js, JavaScript, Typescript, Redux, Jest, React Testing Library, Nunjucks, Web-Components, AWS EC2, YAML, MongoDB, GOCD, Docker, GitHub
+Key Achievements:
+•	Developed a future-proof website platform for all CTM products using Web Components and Nunjucks.
+•	Rebuilt the Home Insurance and Car Insurance websites using React.js, driving improved performance, security and scalability.
+•	Created the Property Details API and integrated it into the Home Insurance platform (.Net 6, React.js).
+•	Enhanced and maintained the Home Insurance platform using AngularJS, HTML, and .Net 4 Framework.
 
-### Fast learner
-From re-training through to my current position, I have shown that I am able to assimilate new knowledge and skills quickly. This allows me to move smoothly between tasks and projects, work with a range of technical and non-technical stakeholders and develop any additional required abilities so that I can contribute effectively regardless of the challenge.
+Other Previous Career Roles
+•	Assistant Headteacher / Teacher, Northolt High School (2004 – 2018)
+•	Sales Executive / Campaign Manager, Ant Marketing (2003 – 2004)
+•	Recruitment Consultant, Hays Education (2002 – 2003)
+•	Various roles in sales, HR, and management (1995 – 2002)
+These experiences demonstrate a strong foundation in leadership, stakeholder management, and effective communication.
 
-### Analytical thinker
-I am a firm believer in the maxim "Solve the problem, then write the code". When developing solutions I focus on the need to develop simple, lighweight solutions that can easily be maintained and which are based on solid foundations of correct data structures and clean code. I also apply a similar approach to developing effective ways of working, carefully considering the balance between weight of process, quality and velocity.
-
-## Experience
-
-### Checkit (September 2023 tp present)
-
-- Lead Cloud Engineer
-
-I am currently the Technical Lead for a team of 4 Developers and three Testers. Our focus is wide ranging from traditional Cloud activity all the way through to buidling, running and owning user interfaces with additional responsibility for a high number of APIs and their connections to both Mongo and SQL databases. A large part of my work has centered around implementing agile processes that build quality into the existing workflow, while leading work across the business to rationalise and simplify Checkit's architecture and move the technology from start-up phase to scale-up.
-
-#### Key Responsibilities
-
- - Development of future architecture for Checkit platform and product
- - Solution design for new features
- - Leadership of development team
- - Development of bespoke agile processes
- - Leading maintenance of existing solution (Javascript, Typescript, html, Terraform, Groovy)
-
-### CompareTheMarket (September 2018 - August 2023)
-
- - Senior Software Engineer (September 2021 - present)
- - Software Engineer (September 2019 - September 2021)
- - Junior Software Engineer (January 2019 - September 2019)
- - Apprentice (September 2018 - December 2018)
-
-Including re-training, I spent almost five years at Compare the Market, initially working on entry level maintance tasks before moving on to taking a key role in delivering new features and now a leading role in developing the future of the business' digital comparison platform. During this time I have demonstrated my ability to learn new technologies quickly and apply them creatively to overcome business and technical challenges as well as to improve or define new ways of working for my teams. I have also relied upon and continued to develop my softer skills in order to work well with colleagues, help them to develop their own capabilities through processes such as mentoring and to take an active role in the process of recruiting new engineers to the business.
-
-#### Key Responsibilities
-
- - Development of future website platform for all CTM products (range of technologies including Web-Components)
- - Property Details API Creation, and integration into Home Insurance Website (.Net 5 / React JS)
- - Home Insurance Website Rebuild (React JS)
- - Home Insurance Website Maintenance and Development (Angular JS / html / .Net Framework)
-
-### Teacher 11-19 age group (July 2005 - August 2018)
-
- - Assistant Headteacher Responsible for Whole School Curriculum, Staffing and GCSE Options. Leadership of Economics Department and two Year Groups.
-
-Including training I spent 15 years in education rising to the position stated above. This involved direct line management of up to 20 people, and control of an annual staffing budget approaching a height of £15million. As well as being part of a leadership that moved a school from Special Measures to becoming one of the 100 most improved schools in the country, I was deemed an outstanding teacher in repeated OFSTED, Local Education Authority and internal school lesson observations. The results of students I directly taught were in the top 5% of the country enabling them to successfully apply to instituations such as Oxford, Cambridge and the London School of Economics, despite the socio-economic challenges presented by the school's conext.
-
-#### Other Roles in Education
-
- - Year Leader / Year Learning Manager
- - Head of Economics / Subject Learning Manager
- - Second in Charge of Year Group
- - Second in Charge of Business Studies
- - Teacher of Economics & Business Studies
-
-### Previous Career Roles
-
- - Sales Executive / Campaign Manager, Ant Marketing (June 2003 - August 2004)
- - Recuitment Consultant, Hays Education (November 2002 - June 2003)
- - Sales Executive, Ant Marketing (June 2002 - November 2002)
- - Sales Floor Manager, Argos Distributors (November 2001 - June 2002)
- - Bar Manager, 5th Avenue Nightclub (July 2001 - October 2001)
- - Telesales Operative, Novartis Pharmaceuticals (July 2001 - October 2001)
- - HR Consultant, CCL Industries (June 2000 - September 2000)
- - P/T Retail Assistant / Retail Supervisor, Argos Distributors (October 1995 - September 1999)
-
-## Educational History
+## Education
 
 ###  Institute for Apprenticeships & Technical Education (September 2018 - December 2019 via BGL Group / Compare the Market)
 
-- Level 4 Apprenticeship in Software Development (Distinction)
+•	Level 4 Apprenticeship in Software Development (Distinction)
 
 The above course also included a 12-week intensive development bootcamp at Makers Academy, focusing on:
 
-- Agile methodologies
-- OO programming
-- TDD
-- BDD
-- Pair programming
-- Basic syntax for Ruby, Javascipt and .Net
+•	Agile methodologies
+•	Object Oriented programming
+•	Functional programming
+•	Test Driven Development
+•	Behaviour Driven Development
+•	Pair programming
+•	Syntax for Ruby, Javascipt and .Net
 
 ### Sunderland University (September 2004 - July 2005)
 
-- PGCE in Business & Economics Education
+•	PGCE in Business & Economics Education
 
-### Hull University (September 1998 - June 2001)
+### Hull University (September 1998 •	June 2001)
 
-- BA (Hons) Economics, Business & HR (2:1)
+•	BA (Hons) Economics, Business & HR (2:1)
+
+## Other Skills
+
+•	Leadership: Proven ability to lead cross-functional teams, foster collaboration, and drive impactful results.
+•	Communication: Experienced in delivering technical showcases, knowledge-sharing sessions, and stakeholder alignment meetings.
+•	Analytical Thinking: Focused on simplicity, maintainability, and solving problems with clean and testable code.
+•	Adaptability: Continuously evaluates progress and adjusts processes to improve team efficiency.
 
 ## Hobbies and Interests
 
-- Travelling: I enjoy exploring the world, learning about different cultures and sampling new cuisines.
-- Health and Fitness: I enjoy playing a range of competitive sports such as cricket, football and tennis and am a regular visitor to my local gym.
-- Literature: From the classics to biographies, technical books to science fiction. If it is written down, I want to read it.
-- Coding: Having re-trained I find it's important to spend some personal time extending and refining my learning by building personal projects. It helps that I enjoy what I do.
+•	Travel: I am passionate about exploring different cultures and cuisines.
+•	Literature: I read avidly and across genres, including biographies, technical books and science fiction.
+•	Coding: I Enjoy building personal projects to extend and refine my technical expertise.
+•	Games: I play a range of video and board games and visit UK Board Games Expo every year.
